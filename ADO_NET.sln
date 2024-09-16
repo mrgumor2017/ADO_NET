@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_ConnectiomMode", "01_ConnectiomMode\01_ConnectiomMode.csproj", "{A81F3A62-8EE8-4972-B687-FE1365D6283A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_CRUD interface", "02_CRUD interface\02_CRUD interface.csproj", "{81124067-D2EE-48E0-A452-8BC47953D31D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_DZ", "02_DZ\02_DZ.csproj", "{162055D7-B0E3-4DE9-872D-1C52607D3AF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ClassLibrary", "03_ClassLibrary\03_ClassLibrary.csproj", "{61856BD2-346D-4872-A3C4-2CEF93DBE51A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_WpfApp", "03_WpfApp\03_WpfApp.csproj", "{6C0A0491-3CB8-4DC6-871F-F070197F5AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Intro_to_LINQ", "04_Intro_to_LINQ\04_Intro_to_LINQ.csproj", "{18E52607-790F-4040-87D3-43BB273481BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81F3A62-8EE8-4972-B687-FE1365D6283A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81F3A62-8EE8-4972-B687-FE1365D6283A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81F3A62-8EE8-4972-B687-FE1365D6283A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81F3A62-8EE8-4972-B687-FE1365D6283A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81124067-D2EE-48E0-A452-8BC47953D31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81124067-D2EE-48E0-A452-8BC47953D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81124067-D2EE-48E0-A452-8BC47953D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81124067-D2EE-48E0-A452-8BC47953D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162055D7-B0E3-4DE9-872D-1C52607D3AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162055D7-B0E3-4DE9-872D-1C52607D3AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162055D7-B0E3-4DE9-872D-1C52607D3AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162055D7-B0E3-4DE9-872D-1C52607D3AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61856BD2-346D-4872-A3C4-2CEF93DBE51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61856BD2-346D-4872-A3C4-2CEF93DBE51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61856BD2-346D-4872-A3C4-2CEF93DBE51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61856BD2-346D-4872-A3C4-2CEF93DBE51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0A0491-3CB8-4DC6-871F-F070197F5AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0A0491-3CB8-4DC6-871F-F070197F5AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0A0491-3CB8-4DC6-871F-F070197F5AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0A0491-3CB8-4DC6-871F-F070197F5AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E52607-790F-4040-87D3-43BB273481BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E52607-790F-4040-87D3-43BB273481BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E52607-790F-4040-87D3-43BB273481BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E52607-790F-4040-87D3-43BB273481BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EED49CE-AC55-46D7-9776-8BE4DBBFADCA}
+	EndGlobalSection
+EndGlobal
