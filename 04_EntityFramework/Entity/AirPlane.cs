@@ -8,5 +8,6 @@ namespace _04_EntityFramework.Entity
         public string Model { get; set; }
         public int MaxPassanger { get; set; }
         public Collection<Flight> Flights { get; set; }
+
     }
 }
