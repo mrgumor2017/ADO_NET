@@ -59,6 +59,7 @@ namespace _04_Intro_to_LINQ
             double avr2 = result2.Average();
             WriteLine("Avarage2:" + avr2);
             #endregion
+
             #region Zadacha3
             int[] arrayYears = { 1725, 1889, 1956, 2034, 1450, 2100, 1991, 1605, 2027, 1803, 2000 };
             IEnumerable<int> query3 = from i in arrayYears
